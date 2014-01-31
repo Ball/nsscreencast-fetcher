@@ -1,14 +1,16 @@
 # nsscreencast-fetcher
 
-A Clojure library designed to ... well, that part is up to you.
+[A Clojure example that downloads screencasts.] (http://myotherpants.com/2014/01/are-you-doing-anything-real-with-it/)
 
 ## Usage
 
-FIXME
+Add your secret key to NSScreencast's private rss feed then...
+
+    lein deps
+    lein run
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Brian J Ball
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the BSD License.
